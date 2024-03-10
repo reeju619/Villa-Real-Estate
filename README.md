@@ -1,6 +1,6 @@
-![Home Page](1.png)
-![Property Page](2.png)
-![Admin Page](3.png)
+![Home Page](1.jpg)
+![Property Page](2.jpg)
+![Admin Page](3.jpg)
 
 ## Instructions
 Download the zipped github folder of this project and unzip the folder in your computer system.
